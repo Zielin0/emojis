@@ -12,6 +12,7 @@ Now you can use command 'emojis' in your terminal
 
 ### Bugs
 Some emojis may not show properly cause of the font in terminal
+
 If emoji is not working then change your font in terminal to one of the patched fonts such as [Nerd fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ### License
